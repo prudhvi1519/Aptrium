@@ -1,0 +1,8 @@
+{
+  "name": "Aptrium",
+  "description": "An AI-powered platform inspired by ChatGPT and Gemini, offering a suite of advanced features including real-time chat, image and video generation, media analysis, and more, all within a modern, futuristic interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
